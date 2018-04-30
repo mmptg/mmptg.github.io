@@ -4,10 +4,15 @@
 }
 body 
 {
-	background-image: url(img/SF.jpg);
 	background-size: cover;
 	background-position: center;
 	height: 100vh;
+}
+
+#bg{
+
+	width: 80%;
+	height: auto;
 }
 
 .main-nav 
