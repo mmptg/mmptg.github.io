@@ -1,5 +1,5 @@
 body{
-	background-image: url(img/about.jpg)
+	background-image: url(img/about.jpg);
 	background-size: cover;
 	background-position: center;
 	height: 120vh;}
@@ -37,14 +37,20 @@ body{
 p{
 	color: white;
 	text-align: center;
-margin-left: 20%;
-margin-right: 20%; 
+margin-left: 5%;
+margin-right: 40%; 
 }
 
 h1 {
 	color: white;
+	font-size: 23px;
+	margin-left: 5%;
+margin-right: 40%;
 }
 
 h2 {
 	color: white;
+font-size: 23px;
+margin-left: 5%;
+margin-right: 40%;
 }
